@@ -10,7 +10,8 @@
     <h2>Registration</h2>
     <form action="insert.php" method = "POST">
       <div class="input-box">
-        <input type="text" id="firstname" name="firstname" placeholder="Firstname" required>
+        <!-- // adding fields for inpu;t -->
+        <input type="text" id="firstname" name="firstname" placeholder="Firstname" required> 
       </div>
       <div class="input-box">
         <input type="text" name="lastname" placeholder="Lastname" required>
@@ -28,15 +29,7 @@
 
 </form>
 
-<!-- <h2> Registrations </h2>
-<table style=" border: 1px solid black;">
-    <tbody>
-        <tr>
-            <th>firstname</th>
-            <th>lastname</th>
-            <th>email</th>
-        </tr>
-    </tbody> -->
+
     <?php
         //include "insert.php";
         //$query = "SELECT * FROM `crud`";
