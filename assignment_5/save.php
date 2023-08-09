@@ -1,0 +1,7 @@
+<?php
+
+echo "THANK YOU YOUR DETAILS HAVE BEEN SAVED IN THE DATABASE";
+
+
+
+?>

@@ -40,8 +40,6 @@
 // echo 'succsss';
 
 
-
-
            ?>
     </div> 
     <!-- displaying message after subscribing to the newsletter -->
